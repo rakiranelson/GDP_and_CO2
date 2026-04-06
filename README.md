@@ -1,3 +1,3 @@
 # GDP_and_CO2
 
-Git exercise
+Git/Github exercises to practice Git workflow.
